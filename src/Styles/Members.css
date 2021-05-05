@@ -1,0 +1,23 @@
+#members .imageWrapper {
+    height: 330px;
+    display: flex;
+    justify-content: center;
+    min-width: 100px;
+}
+
+#members{
+    margin-bottom: 80px;
+}
+
+
+.image{
+    height:300px;
+}
+
+.links {
+    display:flex;
+    justify-content: center;
+}
+
+
+
