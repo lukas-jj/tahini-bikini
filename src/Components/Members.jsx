@@ -7,7 +7,7 @@ import Alex from "../pics/alex.jpeg"
 import Maddy from "../pics/maddy.jpeg"
 import Lukas from "../pics/lukas.jpeg"
 
-const members = [{name: "Alex", src: Alex},{ name: "Barney", src: barn}, {name: "Cae", src: Cae},  {name: "Maddy", src: Maddy}, {name: "Lukas", src:Lukas}]
+const members = [{name: "Alex", src: Alex},{ name: "Barney", src: barn}, {name: "Cae", src: Cae},  {name: "Lukas", src:Lukas},{name: "Maddy", src: Maddy}, ]
 
 
 function Members() {
