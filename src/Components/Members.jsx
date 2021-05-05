@@ -1,12 +1,13 @@
 import '../Styles/Members.css'
 import 'aos/dist/aos.css'
 import AOS from 'aos';
-import barn from "../pics/barn.jpg"
+import barn from "../pics/barn.jpeg"
 import Cae from "../pics/cae.jpeg"
 import Alex from "../pics/alex.jpeg"
 import Maddy from "../pics/maddy.jpeg"
+import Lukas from "../pics/lukas.jpeg"
 
-const members = [{ name: "Barney", src: barn}, {name: "Cae", src: Cae}, {name: "Alex", src: Alex}, {name: "Maddy", src: Maddy}]
+const members = [{name: "Alex", src: Alex},{ name: "Barney", src: barn}, {name: "Cae", src: Cae},  {name: "Maddy", src: Maddy}, {name: "Lukas", src:Lukas}]
 
 
 function Members() {
@@ -18,7 +19,7 @@ function Members() {
             <div className="container">
             <h1 data-aos="fade-left" className="title is-1 has-text-centered">Members</h1>
             <div id="icon-columns" className="columns is-multiline">
-                {members.map(member => <div  data-aos="fade-left" className='column is-half'>
+                {members.map(member => <div  data-aos="fade-left" className='column is-one-third'>
                     <div className="card">
                         <div className="card-content">
                             <div className="imageWrapper">
