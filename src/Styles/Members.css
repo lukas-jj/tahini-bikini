@@ -6,6 +6,7 @@
 }
 
 #members{
+    
     margin-bottom: 80px;
 }
 
@@ -17,6 +18,7 @@
 .links {
     display:flex;
     justify-content: center;
+
 }
 
 

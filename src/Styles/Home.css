@@ -30,7 +30,7 @@
       align-items: center;
   }
 
-  
+
 
  #homeEntry{
     border-radius: 10px;
@@ -44,8 +44,11 @@
     margin-top:130px;
 }
 
+
+
 .home-scroll > .title:hover{
         color:lightblue
+        
     }
 
     

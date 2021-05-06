@@ -6,6 +6,7 @@ import Cae from "../pics/cae.jpeg"
 import Alex from "../pics/alex.jpeg"
 import Maddy from "../pics/maddy.jpeg"
 import Lukas from "../pics/lukas.jpeg"
+// import something from "../pics/something.jpg"
 
 const members = [{name: "Alex", src: Alex},{ name: "Barney", src: barn}, {name: "Cae", src: Cae},  {name: "Lukas", src:Lukas},{name: "Maddy", src: Maddy}, ]
 

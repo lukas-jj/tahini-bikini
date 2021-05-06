@@ -1,0 +1,13 @@
+#bubble{
+    background-image: url("../pics/palm.png");
+    padding:100px;
+    background-size: cover;
+    background-position: center;   
+    background-color: 'none';
+    color:white;
+}
+
+
+.label{
+    color:white
+}
