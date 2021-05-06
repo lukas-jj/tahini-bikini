@@ -29,7 +29,7 @@ const onSubmit = (data) => {
 const message = watch('message') || "";
 const messageCharsLeft = 1500 - message.length;
   return (
-    <section id="Email" className='hero is-fullheight' >
+    <section id="email" className='hero is-fullheight' >
         <div id="bubble"data-aos="fade-left" className="container">
               <h1 className="title is-3 has-text-centered">Contact</h1>
             <div className="card" >
