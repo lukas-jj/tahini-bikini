@@ -18,9 +18,9 @@ const onSubmit = (data) => {
     sendForm('default_service', 'template_mqccxij', '#contact-form')
       .then(function(response) {
         console.log('SUCCESS!', response.status, response.text);
-        setEmailSent("Thanks for the email! I'll get back to you as soon as I can.")
+        setEmailSent("Thanks for the email! We'll reply soon.")
       }, function(error) {
-        console.log('FAILED...', error);
+        console.log('Sorry, there was a failure...', error);
       });
 
 
@@ -32,7 +32,7 @@ const messageCharsLeft = 1500 - message.length;
     <section id="Email" className='hero is-fullheight' >
         <div id="bubble"data-aos="fade-left" className="container">
               <h1 className="title is-3 has-text-centered">Contact</h1>
-            <div >
+            <div className="card" >
                 <div  id="EmailContent" className="card-content">
     {!emailSent ?   <form id='contact-form' onSubmit={handleSubmit(onSubmit)}>
           <div className="field">

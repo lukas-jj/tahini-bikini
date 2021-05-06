@@ -1,13 +1,25 @@
-#bubble{
+#bubble {
     background-image: url("../pics/palm.png");
-    padding:100px;
-    background-size: cover;
-    background-position: center;   
-    background-color: 'none';
-    color:white;
+    background-size: contain;
+    background-position: center center;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    color: white;
 }
 
-
-.label{
-    color:white
+.input {
+    min-width: 300px;
+    max-width: 400px;
 }
+
+.label {
+    color: white
+}
+
+#bubble > .card {
+    padding-top: 130px;;
+    color: white;
+    background-color: transparent;
+    box-shadow: none;
+}
+

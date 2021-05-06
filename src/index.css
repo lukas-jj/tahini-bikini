@@ -15,6 +15,13 @@
   animation-duration: 1s; /* don't forget to set a duration! */
 }
 
+body{
+  background-color: #94d2bd;
+  background-size: contain;
+  top: 0; 
+  left: 0; 
+}
+
 
 #myVideo {
   position: fixed;

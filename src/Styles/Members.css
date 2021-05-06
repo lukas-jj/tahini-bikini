@@ -1,19 +1,18 @@
 #members .imageWrapper {
-    height: 330px;
+    height: 300px;
     display: flex;
     justify-content: center;
     min-width: 100px;
 }
 
 #members{
-    
     margin-bottom: 80px;
 }
 
+/*  */
 
-.image{
-    height:300px;
-}
+
+
 
 .links {
     display:flex;
@@ -21,5 +20,12 @@
 
 }
 
+/* #members .card  {
+    background-image: url("../pics/coconut.png");
+    background-size: contain;
+    background-position: center center;   
+    background-color: transparent;
+    background-repeat: no-repeat;
+} */
 
 

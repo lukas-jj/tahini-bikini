@@ -55,7 +55,7 @@ We are five humans in Wellington who like to play music and have fun.           
                             <div className="card-content">
                  
 <p id="about-me-p" class="content is-large p-3">
-In May sometime somewhere in Vogelmorn.                                  </p>
+We are playing at Vogelmorn in May - date TBA.                                  </p>
                             
                             </div>
                         </div>

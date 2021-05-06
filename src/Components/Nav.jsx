@@ -47,7 +47,7 @@ function Nav() {
       <Link to="members" spy={true} smooth={true}>Members</Link>
       </div>
       <div  className="navbar-item">
-      {/* <Link to="projects" spy={true} smooth={true}>Projects</Link> */}
+      <Link to="email" spy={true} smooth={true}>Contact Us</Link>
       </div>
                     </div>
                 </div>
