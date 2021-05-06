@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tahini-bikini/static/css/main.21b13624.chunk.css",
-    "main.js": "/tahini-bikini/static/js/main.1caaa5a1.chunk.js",
-    "main.js.map": "/tahini-bikini/static/js/main.1caaa5a1.chunk.js.map",
+    "main.js": "/tahini-bikini/static/js/main.e914e5b6.chunk.js",
+    "main.js.map": "/tahini-bikini/static/js/main.e914e5b6.chunk.js.map",
     "runtime-main.js": "/tahini-bikini/static/js/runtime-main.eceb5200.js",
     "runtime-main.js.map": "/tahini-bikini/static/js/runtime-main.eceb5200.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/tahini-bikini/static/css/2.7fc9bc2b.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.1d61bc2b.chunk.js",
     "static/css/main.21b13624.chunk.css",
-    "static/js/main.1caaa5a1.chunk.js"
+    "static/js/main.e914e5b6.chunk.js"
   ]
 }
